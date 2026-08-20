@@ -3,7 +3,4 @@ kumar
 i am Santhosh Yamala 
 Kumar 
 i am raju
-<<<<<<< HEAD
 i am akash
-=======
->>>>>>> 93a508397658b672f85166a4a0f4cd765de8610f
